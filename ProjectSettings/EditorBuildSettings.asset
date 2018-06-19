@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Level.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 13de94fc22b46f441a4b89ed13205c84
+  - enabled: 1
+    path: Assets/Scenes/dreamLevel.unity
+    guid: b1391589bf3736b4b92b05c5dca18b56
+  - enabled: 1
+    path: Assets/Scenes/nightmareLevel.unity
+    guid: 6a8d6b7d47a795841886283262af7f60
+  - enabled: 1
+    path: Assets/Scenes/fallScene.unity
+    guid: 6c57a8f9a9d881948b29d3cf513a5982
+  - enabled: 1
+    path: Assets/Scenes/InnerVoiceLevel.unity
+    guid: ba1e21a19f891114d8493c4ed8ee8708
+  - enabled: 1
+    path: Assets/Scenes/Dream02Level.unity
+    guid: 484259f9188e0f44ba06913a6821f63f
+  - enabled: 1
+    path: Assets/Scenes/MazeLevel.unity
+    guid: fe47c8138c6fcd24eb998d6c26d1330e
+  - enabled: 1
+    path: Assets/Scenes/finalScene.unity
+    guid: 6c03cb3bef100054b8d40c7e8b6f47b0
